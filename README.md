@@ -49,16 +49,16 @@
     <!-- Contact -->
     <p>For support, either <a href="https://github.com/AttuneEngineering/open-agent/issues/new/choose"> add an issue</a> or reach out to <a href="mailto:contact@attuneengineering.com">contact@attuneengineering.com</a>.</p>
     <!-- Social Badges -->
-    <a href="https://www.youtube.com/channel/UCNMrLvZji3XeWghxsAWKXjg"><img src="https://img.shields.io/youtube/channel/subscribers/UCNMrLvZji3XeWghxsAWKXjg?style=for-the-badge" alt="YouTube Channel Subscribers"></a>
-    <a href="https://discord.gg/sAbbvBNU"><img src="https://img.shields.io/discord/1199192124290257058.svg?style=for-the-badge&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a><br>
     <em>created and maintained by <a href="https://github.com/mrbende" target="_blank">Reed Bender</a></em></p>
-    <a href="https://x.com/reedbndr"><img src="https://img.shields.io/twitter/follow/reedbndr?style=social" alt="X Follow"/></a><br>
+    <a href="https://x.com/reedbndr" target="_blank"><img src="https://img.shields.io/twitter/follow/reedbndr?style=social" alt="X Follow"/></a><br>
+    <a href="https://www.youtube.com/channel/UCNMrLvZji3XeWghxsAWKXjg" target="_blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCNMrLvZji3XeWghxsAWKXjg?style=social" alt="YouTube Channel Subscribers"></a>
   </div>
 
 ---
 
 <div align="center">
     <h3>Get started!</h3>
+    <a href="https://discord.gg/sAbbvBNU" target="_blank"><img src="https://img.shields.io/discord/1199192124290257058.svg?style=for-the-badge&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a><br>
     <!-- Gitpod -->
     <a href="https://gitpod.io/#https://github.com/AttuneEngineering/open-agent" target="_blank"><img src="https://gitpod.io/button/open-in-gitpod.svg" alt="Open-in-Gitpod"></a>
 </div>
