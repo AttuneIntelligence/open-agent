@@ -50,7 +50,7 @@
     <p>For support, either <a href="https://github.com/AttuneEngineering/open-agent/issues/new/choose"> add an issue</a> or reach out to <a href="mailto:contact@attuneengineering.com">contact@attuneengineering.com</a>.</p>
     <!-- Social Badges -->
     <em>created and maintained by <a href="https://github.com/mrbende" target="_blank">Reed Bender</a></em></p>
-    <a href="https://x.com/reedbndr" target="_blank"><img src="https://img.shields.io/twitter/follow/reedbndr?style=social" alt="X Follow"/></a><br>
+    <a href="https://x.com/reedbndr" target="_blank"><img src="https://img.shields.io/twitter/follow/reedbndr?style=social" alt="X Follow"/></a>
     <a href="https://www.youtube.com/channel/UCNMrLvZji3XeWghxsAWKXjg" target="_blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCNMrLvZji3XeWghxsAWKXjg?style=social" alt="YouTube Channel Subscribers"></a>
   </div>
 
