@@ -58,7 +58,7 @@
 ---
 
 <div align="center">
-    <h3>Deploy the architecture...</h3>
+    <h3>Get started!</h3>
     <!-- Gitpod -->
     <a href="https://gitpod.io/#https://github.com/AttuneEngineering/open-agent" target="_blank"><img src="https://gitpod.io/button/open-in-gitpod.svg" alt="Open-in-Gitpod"></a>
 </div>
@@ -73,7 +73,9 @@
 
 Function calling and agential decision making is a notoriously difficult task in natural language processing. How can we get an LLM to not only respond with factual information, but actually take proactive steps to solve problems or retrieve data before compiling a response. This `function calling` step is the missing link between AI being a useful search engine to becoming an agential player in _reality_.
 
-`Open Agent` is a software architecture for creating these types of intelligent agents with `GPT-4`'s native API and a self-defined collection of tools. Using this native tool-formatting and function calling structure, we can then unplug OpenAI as the reasoning engine and provide substitute in our own self-hosted open source **fully open source** LLMs, fine-tuned specificially for performing function calling.
+`Open Agent` is a software architecture for creating these types of intelligent agents with `GPT-4`'s native API and a self-defined collection of tools. Using this native tool-formatting and function calling structure, we can then unplug OpenAI as the reasoning engine and substitute in our own self-hosted **fully open source** LLMs, fine-tuned specificially for performing function calling.
+
+More on this to come... For now, feel free to explore the [functions toolkit](https://github.com/AttuneEngineering/open-agent/blob/88b15b68b2677633f26a15e24e52442e03f6e861/src/functions/tools.json#L1) provided to `OpenAgent`, perform function calling yourself, or build your own architecture for agential reasoning!
 
 ---
 
