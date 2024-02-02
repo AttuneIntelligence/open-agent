@@ -2,20 +2,13 @@ import sys
 import time
 from datetime import datetime
 
-sys.path.append('/workspace/ai-builder/src')
+sys.path.append('/workspace/open-agent/src')
 from bin.keys import set_keys
 from bin.utilities import *
 from chat_templates.prompt_engineering import *
 from functions.toolkit import *
-from runpod_inference.LLaVA_vision import *
-from runpod_inference.Mixtral8x7B_function_calling import *
-from runpod_inference.Mixtral8x7B_instruct import *
-from runpod_inference.Mixtral8x7B_summarization_64k import *
-from openai_inference.OpenAI_function_calling import *
-from openai_inference.OpenAI_gpt_4_vision import *
-from openai_inference.OpenAI_instruct import *
 
-class DigitalAgent:
+class OpenAgent:
     def __init__(self,
                  try_self_hosted=True,
                  verbose=False):
